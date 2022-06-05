@@ -39,7 +39,6 @@ There are four possible ways to use the units.
 3. For maximum portability you can add the units to a Delphi design time package. If you need help doing this [see here](https://delphidabbler.com/url/install-comp).
 4. If you use Git you can add the [`ddablib/ioutils`](https://github.com/ddablib/ioutils) GitHub repository as a Git submodule and add it to your project. Obviously, it's safer if you fork the repo and use your copy, just in case `ddablib/ioutils` ever goes away.
 
-
 ## Demo Programs
 
 There are no demo projects included with the download. However, much of the code is used in some of the demos included with the [Console Application Runner Classes](https://delphidabbler.com/software/consoleapp).
